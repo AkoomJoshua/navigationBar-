@@ -104,7 +104,7 @@
         }
 
     .nav-menu {
-        display: grid;
+   
         grid-template-columns: auto;
         background-color: var(--bright-red);
         margin: 0;
@@ -138,5 +138,4 @@
     .navbar{
         width: 100%;
     }
-
-}
+ }
